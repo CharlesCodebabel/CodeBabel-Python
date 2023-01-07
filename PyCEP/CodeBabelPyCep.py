@@ -38,4 +38,16 @@ cep_ddd = consulta['ddd']
 #exit__
 print('CEP : {}\nEndereço : {}\nEstado : {}\nBairro : {}\nCidade : {}\nIBGE : {}\nLatitude : {}\nLongitude : {}\nDDD : {}'.format(cep_data,cep_address,cep_state,cep_district,cep_city,cep_city_ibge,cep_lat,cep_lng,cep_ddd))
 
+#colect state/district__
+IBGES = cep_state
+IBGEC = cep_district
 
+#general infos__
+print('[INFORMAÇÕES GERAIS]:')
+inf = ('https://www.ibge.gov.br/cidades-e-estados/{}/{}.html'.format(IBGES,IBGEC))
+print(inf)
+
+#panoram__
+print('\n[PANORAMA]:')
+pan = ('https://cidades.ibge.gov.br/brasil/{}/{}/panorama'.format(IBGES,IBGES))
+print(pan)
