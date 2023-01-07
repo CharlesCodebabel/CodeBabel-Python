@@ -1,5 +1,5 @@
 #((( API ))) : requests
-#CodeBabelPayCep
+#CodeBabelPyCep
 
 """
 https://cep.awesomeapi.com.br/:format/:cep
