@@ -1,30 +1,3 @@
-<!--codebabel-theme-ObscureRed:0.0.0-->
-<style>
-.p2 {
-width:fit-content;
-height:fit-content;
-padding:4px;
-background-color:white;
-color:black;
-border:1px solid white;
-border-radius:6px;
-font-weight:bold;
-text-decoration:none;
-}
-.p2:hover {
-border:1px solid #212F3D;
-background-color:#17202A ;
-cursor:pointer;
-color:#E62B46;
-text-decoration:none;
-}
-.brd {color:#C90D27;} /*darkmagenta*/
-.brl {color:#E62B46;} /*lightmagenta*/
-.bgr {color:#212F3D;} /*darkgray*/
-.blb {color:#2FE5EB;} /*lightblue*/
-</style>
-
-<!--cabeçalhos-->
 # [![anigif-jackal.gif](https://i.postimg.cc/tCsz4L7n/anigif-jackal.gif)](https://postimg.cc/SJp9Z16m)  CodeBabel PyBase64
 
 ### CodeBabel PyBase64 👾 : PyBase64.py
