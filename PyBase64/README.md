@@ -43,7 +43,7 @@ ___
 | PYTHON | MD |
 |--------|----|
 |<b class="blb">Yes</b>|<b class="blb">Yes</b>|
-|
+
 
 ## <b class="brl">PROJECT</b>
 |Version|   File Name  |     License     |
