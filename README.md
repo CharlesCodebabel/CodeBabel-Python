@@ -2,7 +2,7 @@
  Public Repository ( Python REPO )
 
 ### JUMP TO FILE>> 
- <a href="https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/PyCEP">📂 CodeBabelPyCep </a>
-### PyCep ( PyCep Folder )
+ <a href="https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/PyCEP">📂 PyCep </a>
 
- <a href="https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/PyCEP">📂 PyBase64 </a>
+### PyCep ( PyCep Folder )
+ <a href="https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/PyBase64">📂 PyBase64 </a>
