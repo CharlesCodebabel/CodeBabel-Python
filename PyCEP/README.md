@@ -33,6 +33,6 @@ ___
  >>> C:\Rwindows\pt> pip install json
  >>> echo Wait for the installation to finish...
  >>> ~~~~
- ### JUMP TO FILE FOLDER >> 
- <a href="https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/PyCEP">📂 CodeBabelPyCep </a>
+ ### JUMP TO FILE >> 
+ <a href="https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/PyCEP/CodeBabelPyCep.py">📂 CodeBabelPyCep.py </a>
 ___
