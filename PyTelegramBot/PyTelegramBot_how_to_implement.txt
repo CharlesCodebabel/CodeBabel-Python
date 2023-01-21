@@ -1,0 +1,55 @@
+CodeBabel PyTelegramBot, simple project uses menu, emoji, actions for each menu, ideal to use in promoting your social networks, customizable, just read the Telegram API documentation to obtain the other functionalities, below is a manual for creation and testing, also follows a link of the heroku server for hosting your bot...
+
+[ EN ] Remember to look for the bot "BotFather" in Telegram to start creating the bot, generate the API KEY, name ( Which will be displayed on the bot screen ), username ( It is for them that you will make the changes of name, profile picture of the bot, among other details ).
+
+Open Telegram, search for BotFather, start...
+put the commands and fill it correctly, bot name
+(Which will be shown in your bot's profile)
+
+/newbot
+
+{BotFather} "Alright, a new bot. How are we going to call it? Please choose a name for your bot."
+
+yourbot.tele
+
+{BotFather} "Good. Now let's choose a username for your bot. It must end in `bot`. Like this, for example: TetrisBot or tetris_bot."
+
+yourbot.tele [ Cannot be equal... ]
+
+{BotFather} "Sorry, this username is invalid."
+
+yourbot
+{BotFather} "Sorry, the username must end in 'bot'. E.g. 'Tetris_bot' or 'Tetrisbot'"
+
+yourbot_bot
+
+{BotFather} "Done! Congratulations on your new bot. You will find it at t.me/yourbot_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it.Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+9999999999:AAAA2CfgdjashdjhajhdkaSDds
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api"
+...
+((( Changing the bot image.... )))
+/setuserpic
+{BotFather} "Choose a bot to change profile photo."
+
+@yourbot_bot
+{BotFather} "OK. Send me the new profile photo for the bot."
+((( CodeBabel : Upload your bot's profile picture )))
+
+{BotFather} "Success! Profile photo updated. /help"
+
+((( Changing bot profile name )))
+/setname
+{BotFather} "Choose a bot to change name."
+@yourbot_bot
+{BotFather} "OK. Send me the new name for your bot."
+CodeFuture_bot
+{BotFather} "Success! Name updated. /help"
+
+Well, I hope you do tests, read the Telegram documentation for further explanations.
+
+HEROKU ( Look for references on youtube, how to host your bot on Heroku )
+https://id.heroku.com/login
