@@ -13,9 +13,9 @@ ___
 ___
 ```
 * [ Manual Rápido ]
-CodeBabel PyTelegramBot, simples projeto, usa menu, emoji, ações para cada menu, ideal para usar na divulgação das suas redes socias,
-customizável, basta que leia a documentação da API do Telegram para obter as demais funcionalidades, abaixo um manual para criação e
-teste, segue também um link do servidor Heroku para hospedagem do seu bot...
+CodeBabel PyTelegramBot, simples projeto, usa menu, emoji, ações para cada menu, ideal para usar na divulgação das suas
+redes socias, customizável, basta que leia a documentação da API do Telegram para obter as demais funcionalidades,
+abaixo um manual para criação e teste, segue também um link do servidor Heroku para hospedagem do seu bot...
 
 Lembre-se de de procurar no Telegram o bot "BotFather" para iniciar a criação do bot, gerar a API KEY, name
 ( Que será exibido na tela do bot ), username ( É por eles que vc fará as alterações de nome, imagem de pefil do bot,
@@ -31,9 +31,10 @@ ___
 
 ```
 * [ Quick Manual ]
-CodeBabel PyTelegramBot, simple project, uses menu, emoji, actions for each menu, ideal to use in promoting your social networks,
-customizable, just read the Telegram API documentation to obtain the other functionalities, below is a manual for creation and testing,
-also follows a link of the heroku server for hosting your bot...
+CodeBabel PyTelegramBot, simple project, uses menu, emoji, actions for each menu, ideal to use in promoting
+your social networks, customizable, just read the Telegram API documentation to obtain the other
+functionalities, below is a manual for creation and testing, also follows a link of the heroku server
+for hosting your bot...
 
 [ EN ] Remember to look for the bot "BotFather" in Telegram to start creating the bot, generate the API KEY, name
 ( Which will be displayed on the bot screen ), username ( It is for them that you will make the changes of name,
