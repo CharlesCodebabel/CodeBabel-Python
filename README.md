@@ -16,3 +16,6 @@ ___
 
 ### PyTelegramBot ( PyTelegramBot Folder )
 📂 [PyTelegramBot](https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/PyTelegramBot)
+
+### PySQLite3 ( PySQLite3 Folder )
+📂 [PyQSLite3](https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/PySQLite3)
