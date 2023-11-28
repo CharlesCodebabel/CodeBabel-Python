@@ -1,12 +1,10 @@
-#((( API ))) : requests > CodeBabelPyCep
+# ((( API ))) : requests > CodeBabelPyCep
 
 """
-( end point ) https://cep.awesomeapi.com.br/json/05424020
-
-atualização : 30s
+( end point ) https://cep.awesomeapi.com.br/json/05424020 --> atualização : 30s
 resp : 200 cep encontrado,
 resp : 400 cep inválido
-resp : 404 Cep não encontrado ((error))
+resp : 404 Cep não encontrado ((erro))
 """
 
 import requests, json
@@ -17,7 +15,7 @@ ep = "https://cep.awesomeapi.com.br/json/{}".format(get_cep) # End Point
 req = requests.get(ep)  # [ 200 : ok, 404 : error ] --> verify requisition ... print(req)
 consulta = req.json()
 
-#colect data/coletando dados
+# collect data/coletando dados
 cep_data = consulta['cep']; cep_address = consulta['address']
 cep_state = consulta['state']; cep_district = consulta['district']
 cep_city = consulta['city']; cep_city_ibge = consulta['city_ibge']
