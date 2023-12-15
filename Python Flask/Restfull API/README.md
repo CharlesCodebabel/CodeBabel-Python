@@ -1,59 +1,47 @@
-<style>
-    .crimson { color:crimson; }
-    .ired { color:indianred;}
-    .yellow { color:yellow; }
-    .lyellow { color: #f7dc6f ;}
-    .pgreen { color:palegreen;}
-    .mint { color:#47b776;}
-    .lblue { color:lightblue;}
-    .purp { color: #d7bde2;}
-</style>
-# [![icon32-New.gif](https://i.postimg.cc/vBbqzZbp/icon32-New.gif)](https://postimg.cc/bGV9Y8GT)<span class="crimson"> CodeBabel-Python</span>
-## CodeBabel PyFlask RestFull-API
-___
-## Os : <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+# <b style="color:crimson"> CodeBabel-Python</b>
+## Flask RestFull-API
 ___
 [![Banner-New-13-12-23.png](https://i.postimg.cc/L6CqTCBD/Banner-New-13-12-23.png)](https://postimg.cc/MvBKZYLf)<h3>Python</h3>
 <img src="https://img.shields.io/badge/python-3.10%20|%203.11-blue">
 ___
 
-## <b class="ired">* Flask RestFull API ( Flask Folder )</b> 
-### <b class="lblue">1 : [[ Windows ]]</b>
-#### <b class="lblue">create venv</b>
+## <b style="color:indianred;">* Flask RestFull API (Flask Folder)</b> 
+### <b style="color:lightblue;">1 : [[ Windows ]]</b>
+#### <b style="color:lightblue;">create venv</b>
 > python -m venv myrestapi
 
-#### <b class="lblue">windows Activate</b>
-> <b class="pgreen">(PowerShell)></b> .\myrestapi\Scripts\Activate.ps1<br>
+#### <b style="color:lightblue;">windows Activate</b>
+> <b style="color:palegreen;">(PowerShell)></b> .\myrestapi\Scripts\Activate.ps1<br>
 > (CMD)> .\myrestapi\Scripts\activate.bat
 ___
-### <b class="mint">1 : [[ Linux/Mac ]]</b>
-#### <b class="mint">create venv</b>
+### <b style="color:#47b776;">1 : [[ Linux/Mac ]]</b>
+#### <b style="color:#47b776;">create venv</b>
 > python3 -m venv myrestapi
 
-#### <b class="mint">Linux/Mac activate</b>
+#### <b style="color:#47b776;">Linux/Mac activate</b>
 > source myrestapi/bin/activate<br>
 
 ___
 
 ### 2 : [ pip ]
-#### <b class="lblue">[[ Windows ]]</b>
-> <b class="lblue">pip -r install requirements.txt</b>
-#### <b class="mint">[[ Linux/Mac ]]</b>
-> <b class="mint">pip3 -r install requirements.txt</b>
+#### <b style="color:lightblue;">[[ Windows ]]</b>
+> <b style="lblue">pip -r install requirements.txt</b>
+#### <b style="color:#47b776;">[[ Linux/Mac ]]</b>
+> <b style="mint">pip3 -r install requirements.txt</b>
 
 ### 3 : [ rodar/run ]
-> <b class="lyellow">flask</b> run
+> <b style="color: #f7dc6f;">flask</b> run
 
 ### 4 : [ json ]
 > http://127.0.0.1:5000/pessoas
     
-## 🧾 <b class="purp">documentation</b>
+## 🧾 <b style="color: #d7bde2;">documentation</b>
 > http://127.0.0.1:5000/apidoc/swagger<br>
 > http://127.0.0.1:5000/apidoc/redoc
 
-## <b class="ired">* HTTP Client for test and CRUD data.</b>
+## <b style="color:indianred;">* HTTP Client for test and CRUD data.</b>
 
-### <b class="ired">💠 HTTPie : </b>
+### <b style="color:indianred;">💠 HTTPie : </b>
 * client... not install on virtual env!<br>
 * Instalar fora da venv!
 
@@ -66,7 +54,7 @@ ___
 > http delete http://127.0.0.1:5000/pessoas/66
 ```
 
-### <b class="ired">🐍 Python requests : </b>
+### <b style="color:indianred;">🐍 Python requests : </b>
 * client... create a python file : client.py....<br>
 
 ```python
