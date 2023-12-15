@@ -3,7 +3,7 @@
 ## CodeBabel PyBase64
 ___
 [![Banner-New-13-12-23.png](https://i.postimg.cc/L6CqTCBD/Banner-New-13-12-23.png)](https://postimg.cc/MvBKZYLf)<h3>Python</h3>
-   <img src="https://img.shields.io/pypi/pyversions/4?color=yellow&label=Python&logo=Python&logoColor=blue&style=for-the-badge">
+<img src="https://img.shields.io/badge/python-3.10%20|%203.11-blue">
 ___
 
 ### PyCep ( PyCep Folder ) 
