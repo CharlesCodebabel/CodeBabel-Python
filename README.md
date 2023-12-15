@@ -19,3 +19,6 @@ ___
 
 ### PySQLite3 ( PySQLite3 Folder )
 📂 [PyQSLite3](https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/PySQLite3)
+
+### Python Flask ( Flask Folder )
+📂 [Flask](https://github.com/CharlesCodebabel/CodeBabel-Python/tree/main/Python%20Flask/)
