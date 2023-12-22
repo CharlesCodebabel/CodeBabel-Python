@@ -1,0 +1,34 @@
+{
+    "_default": {
+        "1": {
+            "name": "CodeBabel",
+            "age": 100,
+            "language": "Python",
+            "date": "22/12/2023"
+        },
+        "2": {
+            "name": "Elon",
+            "age": 44,
+            "language": "Cash",
+            "date": "22/12/2023"
+        },
+        "3": {
+            "name": "Anna",
+            "age": 22,
+            "language": "Jython",
+            "date": "22/12/2023"
+        },
+        "4": {
+            "name": "Mark",
+            "age": 23,
+            "language": "Brython",
+            "date": "22/12/2023"
+        },
+        "5": {
+            "name": "John",
+            "age": 32,
+            "language": "Cython",
+            "date": "22/12/2023"
+        }
+    }
+}
